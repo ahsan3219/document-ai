@@ -46,7 +46,7 @@ Follow these instructions to set up and run the Document Buddy App on your local
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AIAnytime/Document-Buddy-App.git
+git clone https://github.com/ahsan3219/document-ai.git
 cd Document-Buddy-App
 
 2. Create a Virtual Environment
@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 
 ### 📫 Contact
 
-•	Email: aianytime07@gmail.com ✉️
+•	Email: ahsanrazasyedahsan@gmail.com ✉️
 
 Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
 
